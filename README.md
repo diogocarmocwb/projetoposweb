@@ -1,8 +1,7 @@
 # projetoposweb
 Projetos da Pos web UTFPR
 
-# projetoposweb
-Projetos da Pos web UTFPR
+
 1- Estrutura Semântica Rigorosa: Construir o layout completo utilizando apenas tags semânticas (Módulo 01), garantindo que a estrutura seja compreensível para motores de busca e leitores de tela.
 R= De acordo com o conteúdo do módulo o projeto copa 2026 foi construído utilizando tags semânticas por exemplo head, nav, section, footer. Designando sentido para o objetivo da página e 
 melhor engajamento junto aos motores de busca da web. 
